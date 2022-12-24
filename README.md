@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I'm Currently doing Bachelors in Computer Science at COMSATS Islamabad<br><br>🌱 Currently Learning and Practicing Cyber Security concepts with Capture the flag competitions.<br><br>💬 My interests are in Cloud computing, Web development and Cyber Security<br><br>⚡ Fun fact, i work on Arduino and NodeMCU development boards in my spare time
-
+- 💻🎓 I'm currently completing my Bachelor's in Computer Science at COMSATS Islamabad
+- 🌪️🌐🔐 My interests are in cloud computing, web development, and cyber security
+- 💪 I'm always looking for ways to learn and grow in these areas
+- 💥 In my spare time, I participate in Capture the Flag competitions to improve my cyber security skills
+- 🤖 I also enjoy working on Arduino and NodeMCU development boards as a fun and challenging hobby
+- 🚀 I'm excited to continue learning and building my skills as a software developer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullah_shafique_1337) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-shafique-7385b2230) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xabdullah1337) 

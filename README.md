@@ -1,5 +1,4 @@
 # 💫 About Me
-- 💻🎓 I'm currently completing my Bachelor's in Computer Science at COMSATS Islamabad
 - 🌪️🌐🔐 My interests are in cloud computing, web development, and cyber security
 - 💪 I'm always looking for ways to learn and grow in these areas
 - 💥 In my spare time, I participate in Capture the Flag competitions to improve my cyber security skills
